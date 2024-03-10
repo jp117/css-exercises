@@ -1,0 +1,19 @@
+.common {
+    background-color: rgb(221, 164, 173);
+    font-family: verdana, 'DejaVu Sans', sans-serif;
+}
+
+#first {
+    color: rgb(21, 21, 223);
+    font-size: 36px;
+}
+
+#second {
+    background-color: rgb(146, 230, 146);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.common:nth-of-type(2) {
+    font-size: 24px;
+}
